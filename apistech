@@ -114,6 +114,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-32777070300
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
+https://www.youtube.com/watch?v=BpT2mGUdTN0
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
