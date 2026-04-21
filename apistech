@@ -849,3 +849,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/350956
 http://opplextv.cyou:8080/nasir6160/nasir/350957
 #EXTINF:-1:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",ID: HBO Signature
 http://opplextv.cyou:8080/nasir6160/nasir/350958
+#EXTINF:-1:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",ID: Cinemax
+http://opplextv.cyou:8080/nasir6160/nasir/350922
+#EXTINF:-1:-1 tvg-id="" tvg-name="My: Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax HD
+http://opplextv.cyou:8080/nasir6160/nasir/388751
