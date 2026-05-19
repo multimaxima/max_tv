@@ -1,17 +1,5 @@
 #EXTM3U
 
-<===========================================================>
-
-#EXTINF:-1 group-title="EVENT 019/MEI/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://shorter.me/SNozg
-#EXTINF:-1 group-title="EVENT 020/MEI/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://shorter.me/SNozg
-<================>
-##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
-#https://shorter.me/aJXUE
-<================>
-<=================== EVENT 1 =============================>
-<================================================>
 
 #EXTINF:-1 group-title="EVENT 019/MEI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSi_BVcMhWgLKFqmsp3GuPEXE3DdMoCFM2Q&s", 22:00 WIB Jepang U-17 vs Uzbekistan U-17
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -65,12 +53,6 @@ https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
 https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
-
-<=================== MOVIES/SERIES KBTRTV =============================>
-
-#EXTINF:-1 group-title="MOVIES/SERIES KBTRTV" tvg-logo="https://iili.io/KxLFPLJ.md.png",01 TRAKTIR KOPI
-####https://drive.google.com/uc?export=download&id=1XVcXPPJQ5F1l6_GhjWuA_8lFtp3uhLcO&usp
-
 
 <=================== INDONESIA =============================>
 
